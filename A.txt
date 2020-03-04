@@ -1,0 +1,26 @@
+git clone https://github.com/vinay-kumar762/Test030220.git
+ls
+ls  Test030220/
+cd Test030220/
+ls
+touch 0302.txt
+ls
+0302.txt
+git status
+git branch
+git add 0302.txt
+git commit -m "first file"
+git config --global user.email "vinayqae05@gmail.com"
+git config --global user.name "vinay-kumar762"
+git push -u origin master
+123456
+git push -u origin master
+ll
+git status
+git commit
+git commit -m "first file"
+git push -u origin master
+history
+git log
+C
+
